@@ -1,5 +1,6 @@
 # ClaudioChiariello.github.io
 
+<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 
 $$\begin{matrix} 
 0.6 & -0.6 & 0.0

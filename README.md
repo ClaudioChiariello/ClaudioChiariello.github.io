@@ -1,6 +1,7 @@
 # ClaudioChiariello.github.io
 
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+[comment]: <> (This is a comment, it will not be included) That sentence above is used to include latex language in github page. 
 
 $$\begin{matrix} 
 0.6 & -0.6 & 0.0

@@ -1,9 +1,9 @@
 # ClaudioChiariello.github.io
 
 
-$$\begin{bmatrix} 
+$\begin{bmatrix} 
 0.6 & -0.6 & 0.0
-\end{bmatrix}$$
+\end{bmatrix}$
 
 
 <details open="" class="details-reset border rounded-2">

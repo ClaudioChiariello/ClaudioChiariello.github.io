@@ -5,17 +5,17 @@
 That sentence above is used to include latex language in github page. But you have tu put twice $$ rather than once
 -->%
 
-$$\begin{matrix} 
-0.6 & -0.6 & 0.0
-\end{matrix}$$
-
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="Video description anymal.mp4" class="m-1">Anymal (0.6 -0.6, 0)</span>
+    <span aria-label="Video description anymal.mp4" class="m-1">Anymal 
+$$\begin{matrix} 
+0.6 & -0.6 & 0.0
+\end{matrix}$$
+</span>
     <span class="dropdown-caret"></span>
   </summary>
 

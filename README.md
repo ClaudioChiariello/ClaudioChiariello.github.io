@@ -3,7 +3,7 @@
 <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
 <!---
 That sentence above is used to include latex language in github page. But you have tu put twice $$ rather than once
--->%
+-->
 
 
 <details open="" class="details-reset border rounded-2">

@@ -1,6 +1,9 @@
 # ClaudioChiariello.github.io
 
 
+$$\begin{bmatrix} 
+0.6 & -0.6 & 0.0
+\end{bmatrix}$$
 
 https://user-images.githubusercontent.com/80387272/226425651-52f2b323-842e-4511-aa43-5bf4e398adc6.mp4 
 

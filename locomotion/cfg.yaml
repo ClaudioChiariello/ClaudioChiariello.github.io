@@ -1,0 +1,65 @@
+seed: 1
+record_video: yes
+
+environment:
+  render: True  #to visualize on Unity the first environment
+  num_envs: 200
+  eval_every_n: 500  
+  num_threads: 30
+  simulation_dt: 0.001  
+  control_dt: 0.01
+  max_time: 6.0
+  MaxFootPos_z: 0.07 #for the foot_clearance
+  action_std: 0.3
+  num_seq: 5
+  action_in_observation_space: true
+  joint_history_in_observation_space: true
+
+  curriculum:
+    curriculumFactor_: 0.08 #(1-0.08)
+    curriculumDecayFactor_: 0.998
+
+  reward:
+    clearence:
+      coeff: -2
+    torque:
+      coeff: -0.0001 
+    energy:
+      coeff: -0.04
+    forwardVel_x:
+      coeff: 3
+    forwardVel_y:
+      coeff: 1
+    angularVel:
+      coeff: 1 #was 1.5
+    orthogonal_vel:
+      coeff: 0.03
+    Joint_velocity: 
+      coeff: -0.025 #Standard value
+    Joint_acceleration:
+      coeff: -0.005 
+    Smooth_action:
+      coeff: -0.25
+    number_of_contact:
+      coeff: -0.005
+    omega_x:
+      coeff: -1.8
+    omega_y:
+      coeff: -1.8  #0.5
+    v_z:
+      coeff: -1.8
+    hip_penalty:
+      coeff: -0.0005
+    thigh_penalty:
+      coeff: -5e-4
+    #gait_term_pos:
+     # coeff: -2
+    #gait_term_vel:
+    #  coeff: -0.005 
+    slippage:
+      coeff: -1 #was 1
+
+architecture:
+  policy_net: [512, 256, 128]
+  value_net: [512, 256, 128]
+

@@ -22,14 +22,6 @@ $$\begin{matrix}
   </video>
 </details>
 
-<video controls width="250">
-    <source src="https://user-images.githubusercontent.com/80387272/229279076-3144194f-6298-497c-9fb1-3bdf233f1b6d.mp4
-" type="video/webm">
-
-    <source src="https://user-images.githubusercontent.com/80387272/229279076-3144194f-6298-497c-9fb1-3bdf233f1b6d.mp4
-" type="video/mp4">
-</video>
-
 
 
 <details open="" class="details-reset border rounded-2">

@@ -43,6 +43,7 @@ $$\begin{matrix}
   </video>
 </details>
 
+![slope](https://user-images.githubusercontent.com/80387272/229280535-294a4c70-e18f-455a-a137-e33ec97e58f1.png)
 
 
 <details open="" class="details-reset border rounded-2">

@@ -18,7 +18,7 @@ $$\begin{matrix}
 </span>
     <span class="dropdown-caret"></span>
   </summary>
-  <video src="https://user-images.githubusercontent.com/80387272/226463247-abeee1b8-e6cf-459d-b0e7-73b934187f09.mp4" data-canonical-src="https://user-images.githubusercontent.com/80387272/226463247-abeee1b8-e6cf-459d-b0e7-73b934187f09.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://user-images.githubusercontent.com/80387272/226463247-abeee1b8-e6cf-459d-b0e7-73b934187f09.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
   </video>
 </details>
 

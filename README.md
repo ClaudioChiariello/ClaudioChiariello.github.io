@@ -11,7 +11,7 @@ That sentence above is used to include latex language in github page. But you ha
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="Video description anymal.mp4" class="m-1">Anymal Forward motion
+    <span aria-label="Video description anymal.mp4" class="m-1">Anymal Forward motion with command reference velocity
 $$\begin{matrix} 
 0.5 & 0.0 & 0.0
 \end{matrix}$$

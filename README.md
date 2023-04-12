@@ -43,8 +43,6 @@ $$\begin{matrix}
   </video>
 </details>
 
-![slope](https://user-images.githubusercontent.com/80387272/229280535-294a4c70-e18f-455a-a137-e33ec97e58f1.png)
-
 
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
@@ -103,8 +101,7 @@ $$\begin{matrix}
   </video>
 </details>
 
-
-
+# GALLOPING
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
@@ -120,7 +117,7 @@ $$\begin{matrix}
   </video>
 </details>
 
-
+# TERRAINS
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
@@ -141,13 +138,12 @@ $$\begin{matrix}
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="Video description anymal.mp4" class="m-1"> Anymal galloping
+    <span aria-label="Video description anymal.mp4" class="m-1"> Anymal on hills
 </span>
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="https://user-images.githubusercontent.com/80387272/231361055-11722dc1-2bdb-4300-a43b-3001902b1000.mp4
-" data-canonical-src="https://user-images.githubusercontent.com/80387272/231361055-11722dc1-2bdb-4300-a43b-3001902b1000.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://user-images.githubusercontent.com/80387272/231362141-f544c961-39e8-4ba3-95ca-961051b0ea77.mp4" data-canonical-src="https://user-images.githubusercontent.com/80387272/231362141-f544c961-39e8-4ba3-95ca-961051b0ea77.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
   </video>
 </details>
@@ -169,7 +165,11 @@ $$\begin{matrix}
 </details>
 
 # Foot trapping
- file:///home/claudio/raisim_ws/raisimlib/raisimGymTorch/data/anymal_locomotion/locomotion/terrain_1/FootTrapping.png
+
+![Foot trapping]( file:///home/claudio/raisim_ws/raisimlib/raisimGymTorch/data/anymal_locomotion/locomotion/terrain_1/FootTrapping.png)
+
+
+
 
 
 

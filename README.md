@@ -159,7 +159,7 @@ $$\begin{matrix}
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src=" file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/steps.mp4" data-canonical-src=" file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/steps.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/steps.mp4" data-canonical-src=" file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/steps.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
   </video>
 </details>

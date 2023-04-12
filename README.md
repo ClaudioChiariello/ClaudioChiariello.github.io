@@ -154,12 +154,12 @@ $$\begin{matrix}
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="Video description anymal.mp4" class="m-1"> Anymal steps
+    <span aria-label="Video description anymal.mp4" class="m-1"> Anymal on hills
 </span>
     <span class="dropdown-caret"></span>
   </summary>
 
-  <video src="file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/steps.mp4" data-canonical-src=" file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/steps.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://user-images.githubusercontent.com/80387272/231363382-4a439244-e408-4667-a6c6-7c9740faecb1.mp4" data-canonical-src="https://user-images.githubusercontent.com/80387272/231363382-4a439244-e408-4667-a6c6-7c9740faecb1.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
 
   </video>
 </details>
@@ -170,6 +170,10 @@ $$\begin{matrix}
 
 
 
+
+
+
+https://user-images.githubusercontent.com/80387272/231363382-4a439244-e408-4667-a6c6-7c9740faecb1.mp4
 
 
 

@@ -154,7 +154,7 @@ $$\begin{matrix}
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
     <path fill-rule="evenodd" d="..."></path>
 </svg>
-    <span aria-label="Video description anymal.mp4" class="m-1"> Anymal on hills
+    <span aria-label="Video description anymal.mp4" class="m-1"> Anymal on steps
 </span>
     <span class="dropdown-caret"></span>
   </summary>
@@ -166,14 +166,7 @@ $$\begin{matrix}
 
 # Foot trapping
 
-![Foot trapping](file:///home/claudio/raisim_ws/raisimlib/raisimGymTorch/data/anymal_locomotion/locomotion/terrain_1/FootTrapping.png)
-
-
-
-
-
-
-https://user-images.githubusercontent.com/80387272/231363382-4a439244-e408-4667-a6c6-7c9740faecb1.mp4
+![FootTrapping](https://user-images.githubusercontent.com/80387272/231363678-73d59aff-7f2d-4d46-a018-b6cd5a6fda5a.png)
 
 
 

@@ -14,10 +14,16 @@ That sentence above is used to include latex language in github page. But you ha
 </span>
     <span class="dropdown-caret"></span>
   </summary>
-  <video src="file:///home/claudio/raisim_ws/raisimlib/raisimUnity/linux/Screenshot/stairs1.mp4" 
+  <video src="https://github.com/ClaudioChiariello/ClaudioChiariello.github.io/assets/80387272/7dd9c1d9-5c4e-400d-8160-27c5cffbbea6" 
          controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
   </video>
 </details>
+
+
+
+
+
+
 
 
 

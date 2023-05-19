@@ -15,13 +15,11 @@ https://user-images.githubusercontent.com/80387272/226463247-abeee1b8-e6cf-459d-
     <path fill-rule="evenodd" d="..."></path>
 </svg>
     <span aria-label="Video description anymal.mp4" class="m-1">Anymal Forward motion with command reference velocity
-$$\begin{matrix} 
-0.5 & 0.0 & 0.0
-\end{matrix}$$
 </span>
     <span class="dropdown-caret"></span>
   </summary>
-  <video src="https://user-images.githubusercontent.com/80387272/226463247-abeee1b8-e6cf-459d-b0e7-73b934187f09.MP4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  <video src="https://github.com/ClaudioChiariello/ClaudioChiariello.github.io/assets/80387272/0db7a153-029f-47ee-a3fa-e8a16a5891f5" 
+         controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
   </video>
 </details>
 

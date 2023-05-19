@@ -14,6 +14,23 @@ That sentence above is used to include latex language in github page. But you ha
 </span>
     <span class="dropdown-caret"></span>
   </summary>
+  <video src="https://github.com/ClaudioChiariello/ClaudioChiariello.github.io/assets/80387272/53a87b2e-43df-4334-a4ff-66c1ffd514a2" 
+         controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
+  </video>
+</details>
+
+
+
+
+<details open="" class="details-reset border rounded-2">
+  <summary class="px-3 py-2 border-bottom">
+    <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
+    <path fill-rule="evenodd" d="..."></path>
+</svg>
+    <span aria-label="Video description anymal.mp4" class="m-1">Anymal Forward motion with command reference velocity
+</span>
+    <span class="dropdown-caret"></span>
+  </summary>
   <video src="https://github.com/ClaudioChiariello/ClaudioChiariello.github.io/assets/80387272/0db7a153-029f-47ee-a3fa-e8a16a5891f5" 
          controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
   </video>

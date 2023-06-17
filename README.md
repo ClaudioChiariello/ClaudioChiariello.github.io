@@ -42,7 +42,7 @@ That sentence above is used to include latex language in github page. But you ha
 </details>
 
 
-<!---
+
 <details open="" class="details-reset border rounded-2">
   <summary class="px-3 py-2 border-bottom">
     <svg aria-hidden="true" viewBox="0 0 16 16" version="1.1" data-view-component="true" height="16" width="16" class="octicon octicon-device-camera-video">
@@ -58,4 +58,4 @@ $$\begin{matrix}
   <video src="https://user-images.githubusercontent.com/80387272/226463466-71fb53c2-4142-4f2d-965f-1b9c6ab52578.mp4" controls="controls" muted="muted" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;">
   </video>
 </details>
--->
+
